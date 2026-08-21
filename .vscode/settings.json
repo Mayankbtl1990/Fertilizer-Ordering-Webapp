@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "WebContent\\WEB-INF\\lib\\javax.servlet-api-4.0.1.jar",
+        "WebContent\\WEB-INF\\lib\\mysql-connector-j-9.2.0.jar"
+    ]
+}
